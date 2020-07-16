@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BasicView</string>
+    <string name="editlnfo">Edit Infomation</string>
+    <string name="txtName">Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="rdinam">male</string>
+    <string name="rdinu">Female</string>
+    <string name="cboxre">Reading</string>
+    <string name="cboxtra">Travelling</string>
+    <string name="cboxcod">Coding</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="languages">Languages</string>
+    <string name="sex">Sex</string>
+    <string name="textNa">Name</string>
+    <string name="textEm">Email</string>
+    <string name="swich">You have experience with Java Frameworks</string>
+    <string name="btnca">CANCEL</string>
+    <string name="btnin">INFOMATION</string>
+    <string name="txtLan">Languages</string>
+    <string name="MyImage">TODO</string>
+    <string-array name="lan_array">
+        <item>VietNamese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Chinese</item>
+    </string-array>
+</resources>
